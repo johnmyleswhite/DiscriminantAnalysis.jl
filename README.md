@@ -24,9 +24,3 @@ Here is the basic API as it stands now:
 	RDA(X, y, 0.5)
 	RDA(X, y, 1.0)
 	dLDA(X, y)
-
-# To Do
-
-* Add nearest shrunken centroids
-* Add methods to handle rank deficient matrices
-* Revise code for performance
